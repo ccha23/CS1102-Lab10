@@ -6,7 +6,7 @@ To run this lab:
 - A Jupyter notebook will open. You can follow the instructions to modify the codes in the notebook.
 - You can also open the lab instruction [CS1102-Lab10.pdf](CS1102-Lab10.pdf) by double clicking it in the file panel. 
 
-Note that your changes will be erased when you close the session. To download your changes:
+Note that your changes will be erased when you close the session. To download your work:
 - Save the notebook by choosing `File`->`Save`
 - Open the file panel on the left, right click the file (security.ipynb and mysecret.txt) you want to download.
 - A context menu will appear. Choose download to download the file. See the figure below:
