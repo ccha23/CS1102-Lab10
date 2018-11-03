@@ -4,6 +4,7 @@ CS1102 Lab 10 Security (Python)
 To run this lab:
 - Click [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccha23/CS1102-Lab10/master?urlpath=lab%2Ftree%2Fsecurity.ipynb), or visit the url (https://mybinder.org/v2/gh/ccha23/CS1102-Lab10/master?urlpath=lab/tree/security.ipynb)
 - A Jupyter notebook will open. You can follow the instructions to modify the codes in the notebook.
+- You can also open the lab instruction (CS1102-Lab10.pdf) by double clicking it in the file panel. 
 
 Note that your changes will be erased when you close the session. To download your changes:
 - Save the notebook by choosing `File`->`Save`
